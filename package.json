@@ -2,10 +2,7 @@
   "name": "tinymce-dist",
   "version": "0.1.0",
   "description": "Distribution repo of tinymce",
-  "main": [
-    "tinymce.full.js",
-    "jquery.tinymce.min.js"
-  ],
+  "main": "tinymce.full.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
