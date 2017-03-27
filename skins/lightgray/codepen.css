@@ -4,7 +4,7 @@
 b,b *,strong,strong *{font-weight:700}
 ol,ul{list-style:none}
 button,input,input:not([type]),input[type=color],input[type=text],input[type=time],input[type=url],input[type=week],input[type=button],input[type=reset],input[type=submit],input[type=date],input[type=datetime],input[type=datetime-local],input[type=email],input[type=month],input[type=number],input[type=password],input[type=search],input[type=tel],pre,select,textarea{font:inherit}
-@font-face{font-family:aileron;font-style:normal;font-weight:200;src:url(../fonts/aileron-ultra-light.eot?#iefix) format("embedded-opentype"),url(../fonts/aileron-ultra-light.woff) format("woff"),url(../fonts/aileron-ultra-light.ttf) format("truetype")}
+@font-face{font-family:aileron;font-style:normal;font-weight:200;src:url(fonts/aileron-ultra-light.eot?#iefix) format("embedded-opentype"),url(fonts/aileron-ultra-light.woff) format("woff"),url(fonts/aileron-ultra-light.ttf) format("truetype")}
 .codepen body{margin:10px 0 0}
 .codepen body textarea{display:none}
 .mce-container textarea{display:initial!important}
